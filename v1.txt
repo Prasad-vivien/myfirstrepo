@@ -1,6 +1,4 @@
 Hello
 
-Hi, This is Rakesh
 
-
-Hi , This ia Ravi V
+This ia Ravi V
